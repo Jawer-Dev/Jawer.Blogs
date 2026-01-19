@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://jawerblog.com/</loc>
+    <lastmod>2026-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Blog Posts -->
+  <url>
+    <loc>https://jawerblog.com/post/future-of-web-2026</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&amp;auto=format&amp;fit=crop&amp;q=60</image:loc>
+      <image:title>The Future of Web Development in 2026</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://jawerblog.com/post/react-architecture-2026</loc>
+    <lastmod>2026-01-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://imgs.search.brave.com/9YvmIvFILjzljGM_Rs1mDFbIv62DvP7W0NPY7RVa0aI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaWNvbi1pY29u/cy5jb20vMjY5OS9Q/TkcvNTEyL3JlYWN0/anNfbG9nb19pY29u/XzE3MDgwNS5wbmc</image:loc>
+      <image:title>Modern React Architecture in 2026</image:title>
+    </image:image>
+  </url>
+  
+</urlset>
